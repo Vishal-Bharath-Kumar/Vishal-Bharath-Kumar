@@ -1,5 +1,5 @@
 ## About Me
-### I'm Vishal Bharath Kumar, a passionate full-stack developer with expertise in building web applications.
+### I'm Vishal Bharath Kumar, a dedicated full-stack developer who is passionate about crafting web applications. I bring a high level of efficiency and expertise to software development, demonstrating the ability to multitask, organize, and prioritize work effectively. My strengths include excellent analytical, troubleshooting, and problem-solving skills.
 
 ## Skills
 - ## Frontend
