@@ -33,20 +33,17 @@
 </span>
 
 ## Stats
-  
 ![Vishal-Bharath-Kumar's Stats](https://github-readme-stats.vercel.app/api?username=Vishal-Bharath-Kumar&theme=jolly&show_icons=true&hide_border=true&count_private=true)
-
+![Vishal-Bharath-Kumar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Bharath-Kumar&theme=jolly&show_icons=true&hide_border=true&layout=compact)
 ![Vishal-Bharath-Kumar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishal-Bharath-Kumar&theme=jolly&hide_border=true) 
 
-![Vishal-Bharath-Kumar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Bharath-Kumar&theme=jolly&show_icons=true&hide_border=true&layout=compact)
 
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Vishal-Bharath-Kumar)](https://github.com/Vishal-Bharath-Kumar/github-profile-trophy)
 
 ## Contact
 <span>
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-bharath-kumar-t)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-bharath-kumar-t) &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imperfect__kid/)
 </span>
